@@ -10,6 +10,11 @@ namespace Harjoitus_1._18
     {
         static void Main(string[] args)
         {
+           string palid= 
+
+            Console.WriteLine("Give me frace and i will check if it is palidroma");
+            
+
         }
     }
 }

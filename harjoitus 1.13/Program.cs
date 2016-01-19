@@ -17,7 +17,7 @@ namespace harjoitus_1._13
             for(int l=0; l<table.Length ;l++)
             {
 
-                Console.WriteLine("Give your score: ");
+                Console.WriteLine("Give me the judge scores: ");
 
                 table[l] = int.Parse(Console.ReadLine()); 
 
